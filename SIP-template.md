@@ -1,4 +1,4 @@
-Solayer Improvement Proposal (SIP)
+# Solayer Improvement Proposal (SIP)
 SIP: [SIP number]
 Title: [SIP title]
 Authors: [List of authors' names and contact info]
@@ -8,7 +8,7 @@ Category: [Core, Networking, Interface, ERC]
 Created: [Date]
 Updated: [Date]
 
-##Simple Summary
+## Simple Summary
 A brief (one or two sentence) explanation of the SIP.
 
 ## Abstract
@@ -20,10 +20,7 @@ The motivation is critical for SIPs that want to change the Solayer protocol. It
 ## Specification
 The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow for any implementations to be created.
 
-## Backwards Compatibility
-All SIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The SIP must explain how the author proposes to deal with these incompatibilities. SIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
-
-##Test Cases
+## Test Cases
 Test cases for an implementation are mandatory for SIPs that are affecting major protocol changes. Other SIPs can choose to include links to test cases if applicable.
 
 ## Implementation
