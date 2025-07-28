@@ -1,4 +1,4 @@
-# SLP-1: Setting InfiniSVM PoS Inflation Schedule
+# SIP-1: Setting InfiniSVM PoS Inflation Schedule
 
 ## Overview
 
@@ -63,7 +63,7 @@ At the start of each epoch, the protocol computes:
 
 ```
 
-epoch\_inflation = annual\_rate / epochs\_per\_year
+epoch_inflation = annual_rate / epochs_per_year
 
 ```
 
