@@ -24,6 +24,10 @@ By approving this proposal, the Solayer community will implement an inflation sc
 - **Ecosystem Developers & Partners:**  
   Gain a network that is secure due to strong staking incentives without fear of hyperinflation. A robust validator set improves reliability and decentralization, attracting more usage and integrations to InfiniSVM.
 
+### A Note on Locked Tokens and Staking
+
+Locked LAYER tokens will be eligible for staking alongside liquid tokens. This allows long-term holders, contributors, and ecosystem builders to actively participate in network security from day one. A **Foundation Delegation Program**, which could direct locked tokens to validators to bootstrap decentralization, is acknowledged as an important complement to this mechanism. However, to keep this proposal concise and focused on the inflation schedule, such a program will be addressed separately.
+
 ---
 
 ## Specification
