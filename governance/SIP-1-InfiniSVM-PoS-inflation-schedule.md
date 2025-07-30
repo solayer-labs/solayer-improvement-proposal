@@ -44,6 +44,10 @@ The inflation schedule is parameterised on‑chain; governance may modify the in
 
 ### Inflation Schedule
 
+The inflation schedule defined in this proposal will **NOT** take effect immediately upon passage. Inflationary rewards will **only activate once both the Solayer mainnet and the validator/staking program are live**. This ensures that token issuance is aligned with actual network security requirements and an operational validator set.
+
+Until these conditions are met, no LAYER inflation will be emitted. Only at the first epoch after staking is enabled, the initial 8% annualized inflation rate will begin. This approach ties inflation directly to real economic security needs and validator participation, preventing premature dilution before the network and staking infrastructure are fully operational.
+
 ![Inflation Schedule](/governance/images/sip_1_inflation_schedule.png)
 
 | Year   | Rate   |
